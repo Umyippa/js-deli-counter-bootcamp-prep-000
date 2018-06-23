@@ -8,6 +8,6 @@ function takeANumber(line, name) {
 
 function nowServing(line) {
   if(!line.length) {
-    return 
+    return "there is nobody waiting to be served!"
   }
 }
