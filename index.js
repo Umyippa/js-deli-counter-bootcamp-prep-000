@@ -18,5 +18,7 @@ function currentLine(line) {
   if(!line.length) {
     return "The lined is currently empty."
   }
-  const nAndN
+  const nAndN = []
+  
+  
 }
