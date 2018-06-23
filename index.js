@@ -1,4 +1,6 @@
 var katzDeli = [];
-var otherDeli
+var otherDeli = [];
 
-function takeANumber(katzDeliLine, )
+function takeANumber(katzDeliLine, otherDeli) {
+  
+}
