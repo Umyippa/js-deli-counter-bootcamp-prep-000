@@ -3,5 +3,5 @@ var otherDeli = [];
 
 function takeANumber(katzDeliLine, otherDeli) {
   takeANumber = (katzDeliLine, otherDeli);
-  return takeANumber;
+  return (`Welcome, `[otherDeli]`. You are number `[katzDeliLine] ` in line`)
 }
