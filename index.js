@@ -7,5 +7,7 @@ function takeANumber(line, name) {
 }
 
 function nowServing(line) {
-  if(!line.length)
+  if(!line.length) {
+    return 
+  }
 }
